@@ -1,6 +1,6 @@
 ## Hi there 👋
-## Welcome to Rodrigo Zanchetta repository
-### Currently learning Rust and Python
+Welcome to Rodrigo Zanchetta repository
+Currently learning Rust and Python
 
 <div align="center">
   <a href="https://github.com/rzanchetta01">
