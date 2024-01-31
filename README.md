@@ -1,5 +1,5 @@
-## Hi there 👋 Welcome to Rodrigo Zanchetta repository
-Currently learning Rust and Python
+## Hi there 👋 Welcome to my repository
+Currently learning softwares architetures in .NET core
 
 <div align="center">
   <a href="https://github.com/rzanchetta01">
